@@ -1,0 +1,24 @@
+# Application UI
+streamlit
+
+# LangGraph agent workflow and persistence
+langgraph
+langgraph-checkpoint-sqlite
+langchain-core
+langchain-community
+langchain-groq
+
+# Model Context Protocol (MCP) integrations
+langchain-mcp-adapters
+fastmcp
+
+# Storage, HTTP, configuration and web search
+aiosqlite
+requests
+python-dotenv
+duckduckgo-search
+
+# Additional integrations used in basic_chatbot.ipynb
+langchain-openai
+langchain-google-genai
+ipykernel
