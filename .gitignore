@@ -1,0 +1,23 @@
+# API keys
+.env
+.env.*
+
+# Virtual environment
+genv/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database files
+*.db
+*.db-shm
+*.db-wal
+
+# Checkpoints
+*.bin
+
+# VS Code
+.vscode/
